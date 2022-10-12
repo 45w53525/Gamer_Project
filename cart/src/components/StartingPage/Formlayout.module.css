@@ -1,0 +1,16 @@
+.block{
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1.25rem;
+color: #DC3545;
+
+}
+
+.head{
+
+   margin: 3.125rem;
+    text-align: center;
+    
+}

@@ -1,0 +1,14 @@
+.block{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin:1.25rem;
+
+}
+
+.card2{
+    width: 50rem;
+    height:45rem
+}

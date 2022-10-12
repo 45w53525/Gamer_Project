@@ -1,0 +1,28 @@
+.frame{
+
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+width:28rem;
+height: 40rem;
+
+}
+
+.text{
+    margin: 3.125rem;
+    text-align: center;
+    color: #DC3545;
+}
+
+.btn{
+
+        display: flex;
+        flex-direction:row;
+        align-items: center;
+        justify-content: center;
+        margin: 3.125rem;
+}
+
